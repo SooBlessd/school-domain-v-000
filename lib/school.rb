@@ -6,6 +6,6 @@ class School
   
   def add_student(name, grade)
     if roster[grade] != nil
-    @roster[grade] << 
+    @roster[grade] << name
 
 # code here!
