@@ -1,5 +1,5 @@
 class School
-  initalize(name)
+  def initalize(name)
   @name = name
   @roster = {}
   
