@@ -1,7 +1,7 @@
 class School
   def initalize(name)
     @name = name
-    @roster = { }
+    @roster = {}
   end
   
   def roster 
