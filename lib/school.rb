@@ -1,10 +1,5 @@
-# class school
-
-# ROSTER = []
-
-
-  
-# end
+class school
+end
 
 
 # code here!
