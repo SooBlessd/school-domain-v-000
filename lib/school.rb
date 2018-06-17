@@ -1,7 +1,5 @@
-def school
-  @school = school
+class school
 end
-def 
 
 
 # code here!
