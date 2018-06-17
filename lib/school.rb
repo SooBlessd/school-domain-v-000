@@ -1,5 +1,6 @@
 class School
-  initalize @name
+  initalize(name)
+  @name
 end
 
 
