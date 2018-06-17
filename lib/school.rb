@@ -9,7 +9,7 @@ class School
   end
   
   def add_student(name)
-    @add_student <<  name 
+    roster <<  name 
 end
 
 
