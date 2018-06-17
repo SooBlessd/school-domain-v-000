@@ -1,7 +1,7 @@
 class School
   initalize(name)
   @name = name
-  @roster = []
+  @roster = {}
   
 end
 
