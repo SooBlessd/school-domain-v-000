@@ -1,4 +1,5 @@
 class School
+  initalize @name
 end
 
 
