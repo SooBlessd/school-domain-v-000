@@ -1,10 +1,10 @@
-class school
+# class school
 
-ROSTER = []
+# ROSTER = []
 
 
   
-end
+# end
 
 
 # code here!
